@@ -1,0 +1,4 @@
+certbot_email: lhomeltest@gmail.com
+certbot_hosts:
+    - reg.biobank.by
+    - cache-reg.biobank.by
